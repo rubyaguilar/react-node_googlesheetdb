@@ -10,7 +10,7 @@ Note: Easy if you know your JS runtime, otherwise we'll figure it out.
 1. Run `npm i google-spreadsheet`
   
 2. Depending on your Javascript Runtime: 
-   `import { GoogleSpreadsheet } from "google-spreadsheet";`
+   `import { GoogleSpreadsheet } from "google-spreadsheet";\n`
    `const { GoogleSpreadsheet } = require('google-spreadsheet');`
    
 3. There is some configuration on the Google Sheets End: Watch this video for how to get these variables (Set Credentials as Enviornment Varibales in .env): 
