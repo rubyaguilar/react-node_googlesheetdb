@@ -20,7 +20,8 @@ Watch this video for how to get these variables: <br />
     `const PRIVATE_KEY = ''`<br />
     `const CLIENT_EMAIL = '';`<br />
     
-    For `CLIENT_EMAIL` : Credentials > Manage Service Account (between oAuth and Service Accounts) > Create Service Account
+    For `CLIENT_EMAIL` : <br />
+    Credentials > Manage Service Account (between oAuth and Service Accounts) > Create Service Account
 
 ## 4. 
   `src > App.js`
