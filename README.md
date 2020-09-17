@@ -3,7 +3,6 @@ Node.js code for Google Sheets API is confusing: [https://developers.google.com/
 This is an example configuration of a React App that has understandable code for configuring Google Sheets API, just Appending: <br />
 Note: Easy if you know your JS runtime, otherwise we'll figure it out.
 
-## `src > App.js`
 
 1. Run `npm i google-spreadsheet`
   
@@ -22,7 +21,8 @@ Note: Easy if you know your JS runtime, otherwise we'll figure it out.
     
     For `CLIENT_EMAIL` : Credentials > Manage Service Account (between oAuth and Service Accounts) > Create Service Account
 
-4. src > App.js 
+4. 
+  ## `src > App.js`
     
-    Get the code!
+    ## Get the code!
     
