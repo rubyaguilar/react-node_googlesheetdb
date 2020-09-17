@@ -9,7 +9,7 @@ Note: Easy if you know your JS runtime, otherwise we'll figure it out.
 
 1. Run `npm i google-spreadsheet`
   
-2. Depending on your Javascript Runtime: 
+2. Depending on your Javascript Runtime: <br />
    `import { GoogleSpreadsheet } from "google-spreadsheet";`<br />
    `const { GoogleSpreadsheet } = require('google-spreadsheet');`
    
