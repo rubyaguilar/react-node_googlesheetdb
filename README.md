@@ -6,11 +6,12 @@ Note: Easy if you know your JS runtime, otherwise we'll figure it out.
 
 ## 1. Run `npm i google-spreadsheet`
   
-2. Depending on your Javascript Runtime: <br />
+## 2. Depending on your Javascript Runtime: <br />
    `import { GoogleSpreadsheet } from "google-spreadsheet";`<br />
    `const { GoogleSpreadsheet } = require('google-spreadsheet');`
    
-3. There is some configuration on the Google Sheets End: <br /> Watch this video for how to get these variables (Set Credentials as Enviornment Varibales in .env): <br />
+## 3. There is some configuration on the Google Sheets End: <br /> 
+Watch this video for how to get these variables (Set Credentials as Enviornment Varibales in .env): <br />
     `const SPREADSHEET_ID = '';`<br />
     `const SHEET_ID = ;`<br />
     `const PRIVATE_KEY = ''`<br />
@@ -21,7 +22,7 @@ Note: Easy if you know your JS runtime, otherwise we'll figure it out.
     
     For `CLIENT_EMAIL` : Credentials > Manage Service Account (between oAuth and Service Accounts) > Create Service Account
 
-4. 
+## 4. 
   `src > App.js`
     
   Get the code!
