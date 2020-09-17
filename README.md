@@ -11,7 +11,7 @@ Note: Easy if you know your JS runtime, otherwise we'll figure it out.
    `const { GoogleSpreadsheet } = require('google-spreadsheet');`
    
 ## 3. There is some configuration on the Google Sheets End: <br /> 
-Watch this video for how to get these variables: [How to get Shee Credentials](https://www.youtube.com/watch?v=shctaaILCiU&t=38s&ab_channel=AnthonyBrunson) <br />
+Watch this video for how to get these variables: [How to get Google Sheet Credentials](https://www.youtube.com/watch?v=shctaaILCiU&t=38s&ab_channel=AnthonyBrunson) <br />
     WARNING: This video is just getting credentials. Instead of "Web Broswer," select "Web Server" <br />
     `const SPREADSHEET_ID = '';`<br />
     `const SHEET_ID = ;`<br />
