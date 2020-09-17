@@ -18,7 +18,7 @@ Watch this video for how to get these variables: <br />
     `const SPREADSHEET_ID = '';` <br />
     `const SHEET_ID = ;` <br />
     `const PRIVATE_KEY = ''` <br />
-    `const CLIENT_EMAIL = '';` <br />  Not in video
+    `const CLIENT_EMAIL = ''; //Not in video` <br />  
     Instead, on Google Developer Console: Credentials > Manage Service Account (between oAuth and Service Accounts) > Create Service Account
     
     
