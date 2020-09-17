@@ -31,7 +31,7 @@ Watch this video for how to get these variables: <br />
 
 ## 5. Granting App Permission
   Don't over think this step. <br />  
-  You should have an email. Share your Google Sheet with this email, as you normally would with anyone. Think of it was granting your app permission to write to the sheet. 
+  You should have an email. Share your Google Sheet with this email, as you normally would with anyone. Think of it as granting your app permission to write to the sheet. 
   
 ## 4. 
   `src > App.js`
