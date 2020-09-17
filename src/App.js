@@ -5,8 +5,8 @@ import { GoogleSpreadsheet } from "google-spreadsheet"
 
 function App() {
   //FIXME: NOT PRODUCTION. 
-  //FIXME: Configure env varibles below at line 14-18
-  //FIXME: Delete 10-13 
+  //FIXME: Configure env varibles below. Line 14-18
+  //FIXME: DELETE LINES 10-13 
   const SPREADSHEET_ID = '';
   const SHEET_ID = '';
   const CLIENT_EMAIL = '';
@@ -19,6 +19,7 @@ function App() {
   //const PRIVATE_KEY = process.env.REACT_APP_CLIENT_PRIVATE_KEY;
   
 
+  //CODE:
   //Simple method. You can easily put this code anywhere GoogleSpreadsheet is imported (Line 4)
   const doc = new GoogleSpreadsheet(SPREADSHEET_ID);
         const appendSpreadsheet = async (row) => {
@@ -38,10 +39,11 @@ function App() {
             }
         };
 
-  //TODO: Your fields in "newRow" need to match the titles of your columns in sheets
-  //Example: Here, the title of my columns (Row 1) are First_Name and Last_Name
+  //CODE: 
+  //NOTE: Fields in "newRow" need to match the titles of your columns in sheets
+  //The title of my columns (Row 1) are First_Name and Last_Name, empty
   const newRow = { First_Name: "", Last_Name: "" }; //Use this code wherever data is collected
-  appendSpreadsheet(newRow); //Easily add to sheets!
+  appendSpreadsheet(newRow); //Call function add to sheets!
 
   return (
     
