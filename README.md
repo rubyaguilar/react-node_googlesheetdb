@@ -20,7 +20,7 @@ Note: Easy if you know your JS runtime, otherwise we'll figure it out.
     Watch this video for how to get these variables: https://www.youtube.com/watch?v=shctaaILCiU&t=38s&ab_channel=AnthonyBrunson<br />
     WARNING: This video is not a tutorial for this project. Just getting credentials. Instead of "Web Broswer," select "Web Server"
     
-    For CLIENT_EMAIL: Credentials > Manage Service Account (between oAuth and Service Accounts) > Create Service Account
+    For `CLIENT_EMAIL` : Credentials > Manage Service Account (between oAuth and Service Accounts) > Create Service Account
 
 4. src > App.js 
     
