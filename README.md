@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Node.js code for Google Sheets API is confusing: [https://developers.google.com/sheets/api/quickstart/nodejs]
 
 This is an example configuration of a React App that has understandable code for configuring Google Sheets:
