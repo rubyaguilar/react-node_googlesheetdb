@@ -1,5 +1,7 @@
 Node.js code for Google Sheets API is confusing: [https://developers.google.com/sheets/api/quickstart/nodejs]
 
+This code assumes you have a running React app`npx create-react-app .`
+
 This is an example configuration of a React App that has understandable code for configuring Google Sheets API, just Appending: <br />
 Note: Easy if you know your JS runtime, otherwise we'll figure it out.
 
