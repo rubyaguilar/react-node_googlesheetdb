@@ -12,8 +12,8 @@ Note: Easy if you know your JS runtime, otherwise we'll figure it out.
    
 ## 3. There is some configuration on the Google Sheets End: <br /> 
 Watch this video for how to get these variables: <br />
-[How to get Google Sheet Credentials](https://www.youtube.com/watch?v=shctaaILCiU&t=38s&ab_channel=AnthonyBrunson) Instead of "Web Broswer," select "Web Server"<br />
-    WARNING: This video is just getting credentials. Instead of "Web Broswer," select "Web Server" <br />
+[How to get Google Sheet Credentials](https://www.youtube.com/watch?v=shctaaILCiU&t=38s&ab_channel=AnthonyBrunson) > Instead of "Web Broswer," select "Web Server"<br />
+    NOTE: This video is just getting credentials. <br />
     `const SPREADSHEET_ID = '';`<br />
     `const SHEET_ID = ;`<br />
     `const PRIVATE_KEY = ''`<br />
